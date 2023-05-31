@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simdatin.bangda.kemendagri.go.id/js/slot-gacor/sitemap.xml
