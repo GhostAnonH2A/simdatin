@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://simdatin.bangda.kemendagri.go.id/application/-/slot-server-thailand/sitemap.xml
